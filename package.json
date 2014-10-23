@@ -6,7 +6,7 @@
   "main": "src/js/medium-editor.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/daviferreira/medium-editor"
+    "url": "https://github.com/seedinvest/medium-editor"
   },
   "bugs": {
     "url": "https://github.com/daviferreira/medium-editor/issues",
