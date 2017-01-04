@@ -7828,6 +7828,6 @@ MediumEditor.version = MediumEditor.parseVersionString.call(this, ({
     // grunt-bump looks for this:
     'version': '5.22.1'
 }).version);
-
+    window.MediumEditor = MediumEditor;
     return MediumEditor;
 }()));
